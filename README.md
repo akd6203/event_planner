@@ -1,1 +1,1 @@
-# coding-project-template
+# React Application for event planners
